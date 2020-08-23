@@ -1,6 +1,6 @@
 # DOM-Pig-Game
  
-Game Rules:
+Game Rules,
 
 - The game has 2 players, playing in rounds
 - In each turn, a player rolls a dice as many times as they whish. Each result get added to their ROUND score
